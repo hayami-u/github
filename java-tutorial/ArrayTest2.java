@@ -7,7 +7,7 @@ public class ArrayTest2 {
         customer[1] = "suzuki_taro@xxxx.com";
         customer[2] = "090-0000-9999";
         //通常のforループ
-        for (int i = 0; i < 3; i++) {
+        for (int i = 0; i < 4; i++) {
             System.out.println(customer[i]);
         }
         //定数を使わずに変数化
